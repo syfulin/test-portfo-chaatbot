@@ -1,0 +1,9 @@
+{
+    "name": "my-app",
+    "version": "1.0.0",
+    "dependencies": {
+        "serverless-http": "^2.6.1",
+        "express": "^4.17.1",
+        "node-vk-bot-api": "^3.3.7"
+    }
+}
